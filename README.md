@@ -1,10 +1,15 @@
 # Automated Data Management System on AWS
+
+**Michael Ohene Aboagye**  
+AWS Cloud Professional
+7/7/2025  
+
 ## SUMMARY
 
 This project establishes a logger database using **DynamoDB** and implements security and scalability features using **EC2**. Key components include a custom **VPC**, load balancing, and auto-scaling. Python 3 and Boto3 were used for data logging.
 
 ### Automated Data Management Architecture Diagram
-![](assets/architecture%20diagram.png)
+![](automated-data-management-system-on-AWS-using-DynamoDB-EC2 assets/architecture%20diagram.png)
 
 
 ## 1. SETTING UP THE NETWORK ARCHITECTURE
